@@ -1,0 +1,15 @@
+/home/saint/Desktop/C#Array/bin/Debug/net6.0/C#Array
+/home/saint/Desktop/C#Array/bin/Debug/net6.0/C#Array.deps.json
+/home/saint/Desktop/C#Array/bin/Debug/net6.0/C#Array.runtimeconfig.json
+/home/saint/Desktop/C#Array/bin/Debug/net6.0/C#Array.dll
+/home/saint/Desktop/C#Array/bin/Debug/net6.0/C#Array.pdb
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.csproj.AssemblyReference.cache
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.AssemblyInfoInputs.cache
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.AssemblyInfo.cs
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.dll
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/refint/C#Array.dll
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.pdb
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/C#Array.genruntimeconfig.cache
+/home/saint/Desktop/C#Array/obj/Debug/net6.0/ref/C#Array.dll
